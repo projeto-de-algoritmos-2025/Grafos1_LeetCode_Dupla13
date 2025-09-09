@@ -43,4 +43,4 @@ JavaScript e Python
 ## Vídeo
 [Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.]: #
 
-[▶️ Ver vídeo](screenshots/Reuni%C3%A3o-20250908_231018-Grava%C3%A7%C3%A3o%20da%20Reuni%C3%A3o.mp4)
+[▶️ Ver vídeo](https://youtu.be/QUV7gb6l6LA)
