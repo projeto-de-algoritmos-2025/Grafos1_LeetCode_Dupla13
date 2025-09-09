@@ -18,20 +18,20 @@ As seções abaixo informam a dificuldade de cada questão, linguagens utilizada
 ## Exercícios
 | Nome | Dificuldade |
 | -- | -- |
-| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)  |  Médio |
-| [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)  |  Médio |
+| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)  |  Média |
+| [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)  |  Média |
 | [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)  |  Difícil |
 | [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)  |  Difícil |
 
 ## Screenshots
 [Adicione 3 ou mais screenshots do projeto em funcionamento.]: #
-### Exercício 684 
+### Exercício 684. Redundant Connection (Média)
 ![Print do exercício 684](screenshots/find-redundant-connection.png)
-### Exercício 797 
+### Exercício 797. All Paths From Source to Target (Média) 
 ![Print do exercício 797](screenshots/all-paths-from-source-to-target.png)
-### Exercício 834 
+### Exercício 834. Sum of Distances in Tree (Difícil) 
 ![Print do exercício 834](screenshots/sum-of-distances.png)
-### Exercício 839 
+### Exercício 839. Similar String Groups (Difícil)
 ![Print do exercício 839](screenshots/similar-string-group.png)
 
 ## Linguagens 
