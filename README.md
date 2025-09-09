@@ -1,4 +1,4 @@
-# Grafos1_Recomendação-de-Músicas
+# Grafos1_LeetCode_Dupla13
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -11,17 +11,34 @@
 
 ## Sobre 
 [Descreva os objetivos do seu projeto e como ele funciona. ]: #
+O trabalho realizado pela dupla 13 no módulo de grafos 1 consiste na resolução de exercícios quatro exercícios, sendo eles de dificuldade média ou difícil.
+
+As seções abaixo informam a dificuldade de cada questão, linguagens utilizadas e as suas respectivas screenshoots para confirmação da submissão.
+
+## Exercícios
+| Nome | Dificuldade |
+| -- | -- |
+| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/description/)  |  Médio |
+| [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)  |  Médio |
+| [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)  |  Difícil |
+| [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/description/)  |  Difícil |
 
 ## Screenshots
 [Adicione 3 ou mais screenshots do projeto em funcionamento.]: #
+### Exercício 684 
+![Print do exercício 684](screenshots/find-redundant-connection.png)
+### Exercício 797 
+![Print do exercício 797](screenshots/all-paths-from-source-to-target.png)
+### Exercício 834 
+![Print do exercício 834](screenshots/sum-of-distances.png)
+### Exercício 839 
+![Print do exercício 839](screenshots/similar-string-group.png)
 
-## Instalação 
+## Linguagens 
 [**Linguagem**: xxxxxx<br>]: #
 [**Framework**: (caso exista)]: #<br>
 [Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.]: #
+JavaScript e Python
 
-## Uso 
+## Vídeo
 [Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.]: #
-
-## Outros 
-[Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.]: #
